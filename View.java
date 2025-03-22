@@ -63,8 +63,8 @@ public class View {
     public void setSubmitActionListener(ActionListener actionListener) {
         btnSubmit.addActionListener(actionListener);
     }
-    
-     public JFrame getFrame() {
+
+    public JFrame getFrame() {
         return frame;
     }
 }
